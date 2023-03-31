@@ -1,6 +1,6 @@
 Name:		texlive-xellipsis
 Version:	47546
-Release:	1
+Release:	2
 Summary:	Extremely configurable ellipses with formats for various style manuals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xellipsis
