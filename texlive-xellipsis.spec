@@ -3,7 +3,7 @@ Version:	47546
 Release:	2
 Summary:	Extremely configurable ellipses with formats for various style manuals
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xellipsis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xellipsis
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xellipsis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xellipsis.doc.r%{version}.tar.xz
